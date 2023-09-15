@@ -6,7 +6,7 @@ from assertpy import assert_that
 
 from tests.test_base import BaseTest
 
-users = [("nirt236@gmail.com", "123456"), ("elias@gmail.com", "12345Tr")]
+users = [("anumita89das@gmail.com", "123456"), ("elias@gmail.com", "12345Tr")]
 
 
 @allure.severity(allure.severity_level.BLOCKER)

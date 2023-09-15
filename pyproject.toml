@@ -2,10 +2,10 @@
 skip = ["env", "venv"]
 profile = "black"
 [tool.poetry]
-name = "selenium-python-example"
+name = "kisangateway-test"
 version = "0.1.0"
 description = "Selenium Python example project with pytest and Allure report"
-authors = ["Nir Tal <nirt236@gmail.com>"]
+authors = ["Anumita Das <anumita89das@gmail.com>"]
 readme = "README.md"
 packages = [{include = "selenium_python_example"}]
 

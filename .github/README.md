@@ -1,7 +1,7 @@
 # Selenium Python Example
 
-![dev run](https://github.com/nirtal85/Selenium-Python-Example/actions/workflows/devRun.yml/badge.svg)
-![nightly](https://github.com/nirtal85/Selenium-Python-Example/actions/workflows/nightly.yml/badge.svg)
+![dev run](https://github.com/nirtal85/kisangateway-test/actions/workflows/devRun.yml/badge.svg)
+![nightly](https://github.com/nirtal85/kisangateway-test/actions/workflows/nightly.yml/badge.svg)
 
 ## Articles written about this project
 
@@ -71,7 +71,7 @@ pytest -m <tag_name> --browser <firefox/chrome_headless>
 allure serve allure-results
 ```
 
-* [View allure results via Github pages](https://nirtal85.github.io/Selenium-Python-Example/)
+* [View allure results via Github pages](https://a89das.github.io/kisangateway-test/)
 
 ## View Help And Custom CLI Options
 
