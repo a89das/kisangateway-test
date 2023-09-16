@@ -6,7 +6,7 @@ from assertpy import assert_that
 
 from tests.test_base import BaseTest
 
-users = [("anumita89das@gmail.com", "123456"), ("elias@gmail.com", "12345Tr")]
+users = [("nirt236@gmail.com", "123456"), ("elias@gmail.com", "12345Tr")]
 
 
 @allure.severity(allure.severity_level.BLOCKER)
@@ -37,7 +37,7 @@ class TestLogin(BaseTest):
     @pytest.mark.run(order=1)
     def test_valid_login(self, secret_data: dict, json_data: dict):
         self.about_page.click_login_link()
-        self.login_page.login(secret_data.get("email"), secret_data.get("password"))
+        self.login_page.login(secret_data.get("login_email"), secret_data.get("login_password"))
         expected_page_title = json_data["login"]["ws_page_title"]
         assert_that(expected_page_title).is_equal_to(self.projects_page.get_title())
 
