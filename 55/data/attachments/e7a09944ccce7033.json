@@ -1,0 +1,267 @@
+[
+    {
+        "request": {
+            "method": "Network.requestWillBeSent",
+            "params": {
+                "documentURL": "https://kisangateway.com/",
+                "frameId": "E57F4D9B8CD02B7B4C9CFFAFCAEA71B2",
+                "hasUserGesture": false,
+                "initiator": {
+                    "stack": {
+                        "callFrames": [
+                            {
+                                "columnNumber": 1341121,
+                                "functionName": "",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1338460,
+                                "functionName": "xhr",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1342068,
+                                "functionName": "Te",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1345753,
+                                "functionName": "value",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1319067,
+                                "functionName": "",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1587627,
+                                "functionName": "x",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1587374,
+                                "functionName": "",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1130409,
+                                "functionName": "nl",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1150636,
+                                "functionName": "ku",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1142893,
+                                "functionName": "uu",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1083549,
+                                "functionName": "Un",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1149432,
+                                "functionName": "",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1149437,
+                                "functionName": "Pu",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1141895,
+                                "functionName": "iu",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1199728,
+                                "functionName": "P",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            },
+                            {
+                                "columnNumber": 1200262,
+                                "functionName": "B",
+                                "lineNumber": 1,
+                                "scriptId": "7",
+                                "url": "https://kisangateway.com/static/js/main.84065f1e.js"
+                            }
+                        ]
+                    },
+                    "type": "script"
+                },
+                "loaderId": "E2B5FE819624512D374280FE4A303276",
+                "redirectHasExtraInfo": false,
+                "request": {
+                    "headers": {
+                        "Accept": "application/json",
+                        "Referer": "https://kisangateway.com/",
+                        "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/118.0.0.0 Safari/537.36",
+                        "sec-ch-ua": "\"Chromium\";v=\"118\", \"Google Chrome\";v=\"118\", \"Not=A?Brand\";v=\"99\"",
+                        "sec-ch-ua-mobile": "?0",
+                        "sec-ch-ua-platform": "\"Linux\""
+                    },
+                    "initialPriority": "High",
+                    "isSameSite": false,
+                    "method": "GET",
+                    "mixedContentType": "none",
+                    "referrerPolicy": "strict-origin-when-cross-origin",
+                    "url": "https://d2nv6tw7xroy5u.cloudfront.net/api/v1/public/lookup/language"
+                },
+                "requestId": "3072.160",
+                "timestamp": 351.348557,
+                "type": "XHR",
+                "wallTime": 1699491837.8298
+            }
+        },
+        "response": {
+            "method": "Network.responseReceived",
+            "params": {
+                "frameId": "E57F4D9B8CD02B7B4C9CFFAFCAEA71B2",
+                "hasExtraInfo": true,
+                "loaderId": "E2B5FE819624512D374280FE4A303276",
+                "requestId": "3072.160",
+                "response": {
+                    "alternateProtocolUsage": "unspecifiedReason",
+                    "connectionId": 320,
+                    "connectionReused": false,
+                    "encodedDataLength": 295,
+                    "fromDiskCache": false,
+                    "fromPrefetchCache": false,
+                    "fromServiceWorker": false,
+                    "headers": {
+                        "access-control-allow-origin": "*",
+                        "content-type": "application/json",
+                        "date": "Thu, 09 Nov 2023 01:03:57 GMT",
+                        "vary": "Origin, Access-Control-Request-Method, Access-Control-Request-Headers",
+                        "via": "1.1 fae55690a44dbb1f02e9b961e2f4a54c.cloudfront.net (CloudFront)",
+                        "x-amz-cf-id": "oiL3ZH6c9UFQOsTibDXpTgYwXrCQts0kmFBvV6aTUAJNvqGsJtiOsQ==",
+                        "x-amz-cf-pop": "LAX50-P4",
+                        "x-cache": "Miss from cloudfront"
+                    },
+                    "mimeType": "application/json",
+                    "protocol": "h2",
+                    "remoteIPAddress": "18.154.137.166",
+                    "remotePort": 443,
+                    "responseTime": 1699491838356.547,
+                    "securityDetails": {
+                        "certificateId": 0,
+                        "certificateTransparencyCompliance": "compliant",
+                        "cipher": "AES_128_GCM",
+                        "encryptedClientHello": false,
+                        "issuer": "Amazon RSA 2048 M01",
+                        "keyExchange": "",
+                        "keyExchangeGroup": "X25519",
+                        "protocol": "TLS 1.3",
+                        "sanList": [
+                            "cloudfront.net",
+                            "*.cloudfront.net"
+                        ],
+                        "serverSignatureAlgorithm": 2052,
+                        "signedCertificateTimestampList": [
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Google 'Argon2024' log",
+                                "logId": "EECDD064D5DB1ACEC55CB79DB4CD13A23287467CBCECDEC351485946711FB59B",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "304502206946D97908CA475FAF125AA524C012A10FF60F6A4E9CB9A2F6D10A299E566AC80221008C04067FCE367873985EE648AA6606B8515C3E772EB169A86BA13D042F9BC3DF",
+                                "status": "Verified",
+                                "timestamp": 1696898151747.0
+                            },
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "DigiCert Yeti2024 Log",
+                                "logId": "48B0E36BDAA647340FE56A02FA9D30EB1C5201CB56DD2C81D9BBBFAB39D88473",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "304402204AE9139E54C8A0F379C06EF9FA904A98F3F049BEA11F5B717360DF73005F483502204A08CC2334AAC752E985571D73D50C2C89B3F282F69E9DECDDEC21F7ED73F986",
+                                "status": "Verified",
+                                "timestamp": 1696898151723.0
+                            },
+                            {
+                                "hashAlgorithm": "SHA-256",
+                                "logDescription": "Cloudflare 'Nimbus2024' Log",
+                                "logId": "DAB6BF6B3FB5B6229F9BC2BB5C6BE87091716CBB51848534BDA43D3048D7FBAB",
+                                "origin": "Embedded in certificate",
+                                "signatureAlgorithm": "ECDSA",
+                                "signatureData": "304402206A9DC10AEFD6D8F9C2C67BF4E173EBA5AB500F16EB60ABD76E363E674272A05D02206A7136430622A031165095A21B3738CA0A491ADAC6D248171316386C9C75CD46",
+                                "status": "Verified",
+                                "timestamp": 1696898151767.0
+                            }
+                        ],
+                        "subjectName": "*.cloudfront.net",
+                        "validFrom": 1696896000,
+                        "validTo": 1726790399
+                    },
+                    "securityState": "secure",
+                    "status": 200,
+                    "statusText": "",
+                    "timing": {
+                        "connectEnd": 42.833,
+                        "connectStart": 20.38,
+                        "dnsEnd": 20.38,
+                        "dnsStart": 20.37,
+                        "proxyEnd": -1,
+                        "proxyStart": -1,
+                        "pushEnd": 0,
+                        "pushStart": 0,
+                        "receiveHeadersEnd": 526.104,
+                        "receiveHeadersStart": 525.984,
+                        "requestTime": 351.350424,
+                        "sendEnd": 43.433,
+                        "sendStart": 43.348,
+                        "sslEnd": 42.826,
+                        "sslStart": 29.038,
+                        "workerFetchStart": -1,
+                        "workerReady": -1,
+                        "workerRespondWithSettled": -1,
+                        "workerStart": -1
+                    },
+                    "url": "https://d2nv6tw7xroy5u.cloudfront.net/api/v1/public/lookup/language"
+                },
+                "timestamp": 351.877565,
+                "type": "XHR"
+            },
+            "body": {
+                "base64Encoded": false,
+                "body": "{\"response\":[{\"id\":0,\"name\":\"English\",\"display\":\"English\"},{\"id\":1,\"name\":\"Hindi\",\"display\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"id\":3,\"name\":\"Punjabi\",\"display\":\"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\"}],\"success\":true,\"errorCode\":null,\"message\":\"Listed the languages successfully.\"}"
+            }
+        }
+    }
+]
