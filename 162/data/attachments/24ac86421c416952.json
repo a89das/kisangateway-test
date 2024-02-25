@@ -1,8 +1,0 @@
-[
-    {
-        "level": "SEVERE",
-        "message": "https://kisangateway.com/ - Error while trying to use the following icon from the Manifest: https://kisangateway.com/logo192.png (Resource size is not correct - typo in the Manifest?)",
-        "source": "other",
-        "timestamp": 1708736282340
-    }
-]
