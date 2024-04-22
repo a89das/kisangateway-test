@@ -1,0 +1,32 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https://api.kisangateway.com/api/v1/public/lookup/language - Failed to load resource: the server responded with a status of 503 ()",
+        "source": "network",
+        "timestamp": 1713747854924
+    },
+    {
+        "level": "INFO",
+        "message": "https://kisangateway.com/static/js/main.171ab48c.js 1:1608331 L",
+        "source": "console-api",
+        "timestamp": 1713747854925
+    },
+    {
+        "level": "SEVERE",
+        "message": "https://api.kisangateway.com/api/v1/public/category/listCategories?access_id=1&level=0 - Failed to load resource: the server responded with a status of 503 ()",
+        "source": "network",
+        "timestamp": 1713747854936
+    },
+    {
+        "level": "SEVERE",
+        "message": "https://kisangateway.com/static/js/main.171ab48c.js 1:1323271 Uncaught L: Request failed with status code 503",
+        "source": "javascript",
+        "timestamp": 1713747854936
+    },
+    {
+        "level": "SEVERE",
+        "message": "https://kisangateway.com/ - Error while trying to use the following icon from the Manifest: https://kisangateway.com/logo192.png (Resource size is not correct - typo in the Manifest?)",
+        "source": "other",
+        "timestamp": 1713747856304
+    }
+]
