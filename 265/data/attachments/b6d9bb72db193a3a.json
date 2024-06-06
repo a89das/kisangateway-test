@@ -1,0 +1,22 @@
+[
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1752196104,
+        "httpOnly": false,
+        "name": "_ga_1RF2TYT2WW",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1717636104.1.0.1717636104.0.0.0"
+    },
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1752196104,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.475251854.1717636105"
+    }
+]
