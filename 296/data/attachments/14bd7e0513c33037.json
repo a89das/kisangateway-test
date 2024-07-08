@@ -1,8 +1,0 @@
-[
-    {
-        "level": "SEVERE",
-        "message": "https://kisangateway.com/ - Mixed Content: The page at 'https://kisangateway.com/' was loaded over HTTPS, but requested an insecure script 'http://13.200.154.131/www/delivery/asyncjs.php'. This request has been blocked; the content must be served over HTTPS.",
-        "source": "security",
-        "timestamp": 1720315027431
-    }
-]
