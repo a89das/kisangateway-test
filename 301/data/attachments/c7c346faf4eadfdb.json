@@ -1,0 +1,22 @@
+[
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1728522746,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fb.1.1720746746281.652983898167254399"
+    },
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1728522746,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1.1.99549731.1720746746"
+    }
+]
