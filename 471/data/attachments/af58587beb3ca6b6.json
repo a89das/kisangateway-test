@@ -1,0 +1,26 @@
+[
+    {
+        "level": "INFO",
+        "message": "https://kisangateway.com/static/js/main.9bc39415.js 1:1479566 \"header data\" \"\"",
+        "source": "console-api",
+        "timestamp": 1735435824693
+    },
+    {
+        "level": "INFO",
+        "message": "https://kisangateway.com/static/js/1384.e0cc29e1.chunk.js 0:38605 Array(0) \"userDetails\"",
+        "source": "console-api",
+        "timestamp": 1735435824776
+    },
+    {
+        "level": "INFO",
+        "message": "https://kisangateway.com/static/js/main.9bc39415.js 1:1394162 Array(0)",
+        "source": "console-api",
+        "timestamp": 1735435824853
+    },
+    {
+        "level": "SEVERE",
+        "message": "https://kisangateway.com/static/js/main.9bc39415.js 1:1114402 Uncaught (in promise)",
+        "source": "javascript",
+        "timestamp": 1735435824887
+    }
+]
