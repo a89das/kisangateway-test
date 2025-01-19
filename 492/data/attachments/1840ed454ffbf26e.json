@@ -1,0 +1,42 @@
+[
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1771809891,
+        "httpOnly": false,
+        "name": "_ga_1RF2TYT2WW",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GS1.1.1737249891.1.0.1737249891.0.0.0"
+    },
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1745025891,
+        "httpOnly": false,
+        "name": "_fbp",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "fb.1.1737249891166.615382899834995874"
+    },
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1771809891,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "GA1.1.770581876.1737249891"
+    },
+    {
+        "domain": ".kisangateway.com",
+        "expiry": 1745025890,
+        "httpOnly": false,
+        "name": "_gcl_au",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1.1.1463017648.1737249891"
+    }
+]
