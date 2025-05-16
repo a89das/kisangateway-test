@@ -1,0 +1,8 @@
+[
+    {
+        "level": "DEBUG",
+        "message": "https://kisangateway.com/ - [DOM] Input elements should have autocomplete attributes (suggested: \"current-password\"): (More info: https://goo.gl/9p2vKq) %o",
+        "source": "recommendation",
+        "timestamp": 1747359614229
+    }
+]
